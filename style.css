@@ -1,0 +1,32 @@
+p {
+  color: green;
+}
+#rdec {
+  color: red;
+}
+#moder {
+  color: blue;
+}
+.moder {
+  color: blue;
+}
+.slika {
+  width: 250px;
+  padding: 20px;
+  border: 6px black dotted;
+}
+.slika:hover {
+  width: 250px;
+  padding: 20px;
+  border: 6px red solid;
+}
+.btn {
+  width: 150px;
+  height: 40px;
+}
+.active {
+  background-color: green;
+}
+.disable {
+  background-color: red;
+}
